@@ -13,12 +13,12 @@ I will also analyze the impact of installation of renewable energy source (such 
 
 
 # Project expected outcomes
-*Energy consumption patterns
-*Forecasting the consumption of a household based on previous patterns
-*Effect of renewable system installation on energy consumption
-*Purchase of electric vehicle and its effect
-*Upgrading the household device to electric version (such as gas furnace to electric etc. )
-*Forecasting, if installation of renewable energy source would be financially better option
+* Energy consumption patterns
+* Forecasting the consumption of a household based on previous patterns
+* Effect of renewable system installation on energy consumption
+* Purchase of electric vehicle and its effect
+* Upgrading the household device to electric version (such as gas furnace to electric etc. )
+* Forecasting, if installation of renewable energy source would be financially better option
 
 
 # Acknowledgements
