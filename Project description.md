@@ -7,7 +7,7 @@ The data set was obtained from [Kaggle](https://www.kaggle.com/jeanmidev/smart-m
 
 The motivation behind tackling this data set is to analyze the energy consumption data and the economics realted with energy consumption. This analysis will help us understand the consumption during peak hours and how it effects the energy bill and finances of a househod. I will use the weather data, and energy cost data in combinition with the energy consumption data to do the analysis. 
 
-I will also analyze the impact of installation of renewable energy source (such as solar cell or buying an electric vehicle), and how it effects the energy consumption and finance of a household. Buying of electric vehicle proposes an interesting question, how it would effect overall as the cost of gasoline would no longer influence the finance of the household. 
+I will also analyze the impact of installation of renewable energy source (such as solar cell or buying an electric vehicle), on energy consumption and how it effects the  finance of a household. Buying of electric vehicle proposes an interesting question, how it would effect overall as the cost of gasoline would no longer influence the finance of the household. 
 
 
 # Project expected outcomes
